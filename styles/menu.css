@@ -1,0 +1,19 @@
+.h1menu {
+color:  white;
+float: center ;
+margin-left: 250px;
+padding-bottom: 10px;
+}
+   
+p{
+color: white;
+margin-left: 250px;
+position: relative;
+}
+
+.menuimg{
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    display: flex;
+}
