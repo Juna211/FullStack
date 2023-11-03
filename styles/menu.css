@@ -5,10 +5,15 @@ margin-left: 250px;
 padding-bottom: 10px;
 }
    
-p{
+.pmenu{
 color: white;
 margin-left: 250px;
 position: relative;
+}
+.amenu{
+    margin-left: 250px;
+    position: relative;
+    
 }
 
 .menuimg{
